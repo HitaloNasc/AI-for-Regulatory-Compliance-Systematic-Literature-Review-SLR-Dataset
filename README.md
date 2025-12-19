@@ -16,10 +16,3 @@ The purpose of this repository is to:
 - Enable replication, validation, or extension of the study by other researchers.
 
 All artifacts are provided exclusively for academic and research purposes.
-
----
-
-## 📂 Repository Structure
-
-The repository is organized as follows:
-
